@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Numan Dirican</h1>
-<h3 align="center">I'm Student</h3>
+<h3 align="center">I'm Student at Trakya University MIS</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruskyvisky&label=Profile%20views&color=0e75b6&style=flat" alt="ruskyvisky" /> </p>
 
